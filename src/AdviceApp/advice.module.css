@@ -6,7 +6,7 @@
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background: wheat;
+  background: rgba(2, 64, 197, 0.5);
   background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/Website-Backgrounds-For-Desktop.jpg");
   background-size: cover;
 }
@@ -36,6 +36,7 @@
   cursor: pointer;
   border-radius: 8px;
   box-shadow: 3px 3px 8px black;
+  outline: none;
 }
 
 .container section button:hover {
